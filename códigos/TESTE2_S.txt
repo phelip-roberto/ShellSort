@@ -1,0 +1,144 @@
+Semente utilizada: 8
+Script utilizado: ShellSort
+Tamanho do vetor: 50
+Numero de comparacoes de chaves: 286
+Numero de copias de registro: 303
+Vetor ordenado (pior caso): Nao
+Tempo de processamento para a ordenacao: 0.000000000000000000000000000000
+
+
+Semente utilizada: 8
+Script utilizado: ShellSort
+Tamanho do vetor: 50
+Numero de comparacoes de chaves: 142
+Numero de copias de registro: 142
+Vetor ordenado (pior caso): Sim
+Tempo de processamento para a ordenacao: 0.000000000000000000000000000000
+
+
+Semente utilizada: 8
+Script utilizado: ShellSort
+Tamanho do vetor: 1000
+Numero de comparacoes de chaves: 13782
+Numero de copias de registro: 14207
+Vetor ordenado (pior caso): Nao
+Tempo de processamento para a ordenacao: 0.000000000000000000000000000000
+
+
+Semente utilizada: 8
+Script utilizado: ShellSort
+Tamanho do vetor: 1000
+Numero de comparacoes de chaves: 5457
+Numero de copias de registro: 5457
+Vetor ordenado (pior caso): Sim
+Tempo de processamento para a ordenacao: 0.000000000000000000000000000000
+
+
+Semente utilizada: 8
+Script utilizado: ShellSort
+Tamanho do vetor: 50000
+Numero de comparacoes de chaves: 1805088
+Numero de copias de registro: 1827789
+Vetor ordenado (pior caso): Nao
+Tempo de processamento para a ordenacao: 0.030999999999999999777955395075
+
+
+Semente utilizada: 8
+Script utilizado: ShellSort
+Tamanho do vetor: 50000
+Numero de comparacoes de chaves: 455719
+Numero de copias de registro: 455719
+Vetor ordenado (pior caso): Sim
+Tempo de processamento para a ordenacao: 0.000000000000000000000000000000
+
+
+Semente utilizada: 8
+Script utilizado: ShellSort
+Tamanho do vetor: 500000
+Numero de comparacoes de chaves: 28547206
+Numero de copias de registro: 28784407
+Vetor ordenado (pior caso): Nao
+Tempo de processamento para a ordenacao: 0.217999999999999999333866185225
+
+
+Semente utilizada: 8
+Script utilizado: ShellSort
+Tamanho do vetor: 500000
+Numero de comparacoes de chaves: 5601426
+Numero de copias de registro: 5601426
+Vetor ordenado (pior caso): Sim
+Tempo de processamento para a ordenacao: 0.047000000000000000111022302463
+
+
+Semente utilizada: 8
+Script utilizado: Insercao
+Tamanho do vetor: 50
+Numero de comparacoes de chaves: 622
+Numero de copias de registro: 628
+Vetor ordenado (pior caso): Nao
+Tempo de processamento para a ordenacao: 0.000000000000000000000000000000
+
+
+Semente utilizada: 8
+Script utilizado: Insercao
+Tamanho do vetor: 50
+Numero de comparacoes de chaves: 49
+Numero de copias de registro: 49
+Vetor ordenado (pior caso): Sim
+Tempo de processamento para a ordenacao: 0.000000000000000000000000000000
+
+
+Semente utilizada: 8
+Script utilizado: Insercao
+Tamanho do vetor: 1000
+Numero de comparacoes de chaves: 246818
+Numero de copias de registro: 246829
+Vetor ordenado (pior caso): Nao
+Tempo de processamento para a ordenacao: 0.000000000000000000000000000000
+
+
+Semente utilizada: 8
+Script utilizado: Insercao
+Tamanho do vetor: 1000
+Numero de comparacoes de chaves: 999
+Numero de copias de registro: 999
+Vetor ordenado (pior caso): Sim
+Tempo de processamento para a ordenacao: 0.000000000000000000000000000000
+
+
+Semente utilizada: 8
+Script utilizado: Insercao
+Tamanho do vetor: 50000
+Numero de comparacoes de chaves: 625526844
+Numero de copias de registro: 625526857
+Vetor ordenado (pior caso): Nao
+Tempo de processamento para a ordenacao: 2.838999999999999968025576890795
+
+
+Semente utilizada: 8
+Script utilizado: Insercao
+Tamanho do vetor: 50000
+Numero de comparacoes de chaves: 49999
+Numero de copias de registro: 49999
+Vetor ordenado (pior caso): Sim
+Tempo de processamento para a ordenacao: 0.000000000000000000000000000000
+
+
+Semente utilizada: 8
+Script utilizado: Insercao
+Tamanho do vetor: 500000
+Numero de comparacoes de chaves: 62478289790
+Numero de copias de registro: 62478289807
+Vetor ordenado (pior caso): Nao
+Tempo de processamento para a ordenacao: 287.555999999999983174348017200828
+
+
+Semente utilizada: 8
+Script utilizado: Insercao
+Tamanho do vetor: 500000
+Numero de comparacoes de chaves: 499999
+Numero de copias de registro: 499999
+Vetor ordenado (pior caso): Sim
+Tempo de processamento para a ordenacao: 0.014999999999999999444888487687
+
+
